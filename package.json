@@ -1,6 +1,6 @@
 {
   "name": "nearest-date",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Given an array of dates, this module will find the date nearest to a given target date. Can be used to find the nearest number as well",
   "main": "index.js",
   "dependencies": {},
@@ -30,5 +30,9 @@
   "bugs": {
     "url": "https://github.com/watson/nearest-date/issues"
   },
-  "homepage": "https://github.com/watson/nearest-date#readme"
+  "homepage": "https://github.com/watson/nearest-date#readme",
+  "coordinates": [
+    53.56200702251573,
+    9.985613766343704
+  ]
 }
